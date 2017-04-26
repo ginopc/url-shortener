@@ -1,0 +1,24 @@
+{
+  "name": "url-shortener",
+  "version": "1.0.0",
+  "description": "URL Shortener microservice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ginopc/url-shortener.git"
+  },
+  "keywords": [
+    "freecodecamp",
+    "nodejs",
+    "learning"
+  ],
+  "author": "Maurizio Aru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ginopc/url-shortener/issues"
+  },
+  "homepage": "https://github.com/ginopc/url-shortener#readme"
+}
